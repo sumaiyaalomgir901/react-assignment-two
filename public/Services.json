@@ -1,0 +1,30 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "pricing": 56,
+    "name": "Natural Sciences",
+    "body": "quia et suscipit\nsuscipit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "pricing": 85,
+    "name": "Environmental Studies",
+    "body": "nesciunt iure omnis dolorem tempora et accusantium"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "pricing": 65,
+    "name": "Hospitality & Management",
+    "body": "ea molestias quasi exercitationem repellat qui ipsa sit aut"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "pricing": 45,
+    "name": "Earth Science",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae"
+  }
+]
